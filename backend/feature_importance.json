@@ -1,0 +1,34 @@
+[
+  {
+    "feature": "OverallQual",
+    "importance": 0.641144
+  },
+  {
+    "feature": "GrLivArea",
+    "importance": 0.199801
+  },
+  {
+    "feature": "TotalBsmtSF",
+    "importance": 0.048076
+  },
+  {
+    "feature": "GarageCars",
+    "importance": 0.04389
+  },
+  {
+    "feature": "LotArea",
+    "importance": 0.025736
+  },
+  {
+    "feature": "YearBuilt",
+    "importance": 0.024225
+  },
+  {
+    "feature": "FullBath",
+    "importance": 0.010134
+  },
+  {
+    "feature": "BedroomAbvGr",
+    "importance": 0.006994
+  }
+]

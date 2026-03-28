@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Linear Regression",
+    "r2": 0.8728,
+    "rmse": 11068.92,
+    "mae": 8673.51,
+    "cv_r2_mean": 0.8788,
+    "cv_r2_std": 0.01,
+    "train_time_s": 0.01
+  },
+  {
+    "name": "Ridge Regression",
+    "r2": 0.8731,
+    "rmse": 11056.46,
+    "mae": 8661.76,
+    "cv_r2_mean": 0.8788,
+    "cv_r2_std": 0.01,
+    "train_time_s": 1.87
+  },
+  {
+    "name": "Lasso Regression",
+    "r2": 0.8729,
+    "rmse": 11066.11,
+    "mae": 8670.82,
+    "cv_r2_mean": 0.8788,
+    "cv_r2_std": 0.01,
+    "train_time_s": 0.04
+  },
+  {
+    "name": "KNN Regressor",
+    "r2": 0.7983,
+    "rmse": 13940.34,
+    "mae": 11166.29,
+    "cv_r2_mean": 0.782,
+    "cv_r2_std": 0.0211,
+    "train_time_s": 0.12
+  },
+  {
+    "name": "Random Forest",
+    "r2": 0.8673,
+    "rmse": 11307.92,
+    "mae": 8745.38,
+    "cv_r2_mean": 0.8512,
+    "cv_r2_std": 0.0149,
+    "train_time_s": 10.34
+  },
+  {
+    "name": "Gradient Boosting",
+    "r2": 0.8818,
+    "rmse": 10673.84,
+    "mae": 8409.71,
+    "cv_r2_mean": 0.8735,
+    "cv_r2_std": 0.0123,
+    "train_time_s": 8.95
+  }
+]
